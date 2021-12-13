@@ -62,3 +62,20 @@ This is an H2
 -   Red
 -   Green
 -   Blue
+
+
+
+有序清單則使用數字接著一個英文句點：
+
+1.  Bird
+2.  McHale
+3.  Parish
+很重要的一點是，你在清單標記上使用的數字並不會影響輸出的HTML結果，上面的清單所產生的HTML標記為：
+
+<ol>
+<li>Bird</li>
+<li>McHale</li>
+<li>Parish</li>
+</ol>
+
+
