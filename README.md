@@ -13,4 +13,8 @@ This is a regular paragraph.
 </table>
 
 This is another regular paragraph.
-    *強調*
+This is an H1
+=============
+
+This is an H2
+-------------
