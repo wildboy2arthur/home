@@ -9,7 +9,8 @@ This is a regular paragraph.
     <tr>
         <td>ABC</td><td>ABC</td><td>ABC</td>
     </tr>
-    *強調*
+
 </table>
 
 This is another regular paragraph.
+    *強調*
