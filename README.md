@@ -107,7 +107,10 @@ Suspendisse id sem consectetuer libero luctus adipiscing.
 This is [an example](http://example.com/ "Title") inline link.
 
 [This link](http://example.net/) has no title attribute.
+*single asterisks*
 
-[foo]: http://example.com/  "Optional Title Here"
-[foo]: http://example.com/  'Optional Title Here'
-[foo]: http://example.com/  (Optional Title Here)
+_single underscores_
+
+**double asterisks**
+
+__double underscores__
