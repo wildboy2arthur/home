@@ -45,3 +45,20 @@ This is an H2
 >>
 >>     return shell_exec("echo $input | $markdown_script");
 
+
+
+無序清單使用星號、加號或是減號作為清單標記：
+
+*   Red
+*   Green
+*   Blue
+等同於：
+
++   Red
++   Green
++   Blue
+也等同於：
+
+-   Red
+-   Green
+-   Blue
